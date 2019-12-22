@@ -93,7 +93,7 @@ function listProducts() {
             })
 
         } else {
-            console.log("\nSorry, insufficient quanity at this time. All we have is " + res[chosenID].stock_quantity + " - " + chosenProduct + " in our Inventory.\n");
+            console.log("\nSorry, insufficient quantity at this time. All we have is " + res[chosenID].stock_quantity + " - " + chosenProduct + " in our Inventory.\n");
             listProducts();
         }
           })
