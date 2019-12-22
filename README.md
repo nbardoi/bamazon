@@ -34,7 +34,11 @@ node bamazonCustomer.js
 
 **CUSTOMER ORDER BEING FULLFILLED**
 
+![](GIFs/order-successful.gif)
+
 **CUSTOMER BEING TOLD "Insufficient Quantity"**
+
+![](GIFs/insufficient-quantity.gif)
 
 ### **Built With:**
 - Node.js
