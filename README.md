@@ -36,7 +36,7 @@ node bamazonCustomer.js
 
 ![](GIFs/order-successful.gif)
 
-**CUSTOMER BEING TOLD "Insufficient Quantity"**
+**CUSTOMER BEING TOLD "INSUFFICIENT QUANTITY"**
 
 ![](GIFs/insufficient-quantity.gif)
 
