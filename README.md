@@ -28,7 +28,7 @@ If the store does have enough of the product, the app will fulfill the customer'
 
 Example: Run the bamazonCustomer command
 
-node bamazonCustomer.js
+node bamazonCustomer.js 
 
 **OUTPUT:** The system will display questions for customer. Customer will place order and order will either be fulfilled or rejected like explained above.
 
