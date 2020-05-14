@@ -1,6 +1,6 @@
 # **Bamazon**
 
-## **Overview**
+### **Overview**
 Bamazon is an Amazon-like storefront node application that uses databasing to take in orders from customers and deplete stock from the store's inventory.
 
 ### **Instructions**
