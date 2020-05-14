@@ -32,7 +32,7 @@ Example: Run the bamazonCustomer command
 
 **OUTPUT:** The system will display questions for customer. Customer will place order and order will either be fulfilled or rejected like explained above.
 
-**CUSTOMER ORDER BEING FULLFILLED**
+**CUSTOMER ORDER BEING FULLFILLED** 
 
 ![](GIFS/order-successful.gif)
 
