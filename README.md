@@ -1,7 +1,7 @@
 # **Bamazon**
 
 ### **Overview**
-Bamazon is an Amazon-like storefront node application that uses databasing to take in orders from customers and deplete stock from the store's inventory.
+Bamazon is an Amazon-like storefront node application that uses databasing to take in orders from customers and deplete stock from the store's inventory. This project cannot be deployed as it is run in the terminal.
 
 ### **Instructions**
 Below you will find a guide to help you get started and teach you how to run Bamazon 
