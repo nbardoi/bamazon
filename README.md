@@ -40,7 +40,7 @@ Example: Run the bamazonCustomer command
 
 ![](GIFS/insufficient-quantity.gif)
 
-### **Built With:**
+### **Built With:** 
 - Node.js
 - JavaScript
 - MySQL Workbench
