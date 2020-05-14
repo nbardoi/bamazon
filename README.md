@@ -15,7 +15,7 @@ Below you will find a guide to help you get started and teach you how to run Bam
     - MySQL NPM
     - Inquirer NPM
 
-### **CUSTOMER MODE**
+#### **CUSTOMER MODE**
 Running this application will first display all of the items available for sale, their product ids, and prices. The app will then prompt users with two messages.
 
 The first will ask the user/customer the ID of the product they would like to buy.
